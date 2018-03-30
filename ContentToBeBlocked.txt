@@ -68,10 +68,10 @@ tarifrechner.heise.de$subdocument
 ||btc-echo.de##.cookie-notice-container
 
 ! 1/27/2018, 9:40:19 PM btc-echo.de
-||mstrlytcs.com^
+||mstrlytcs.com^$third-party
 
 ! 1/27/2018, 9:40:35 PM btc-echo.de
-||api.optnmstr.com^
+api.optnmstr.com^
 
 ! 1/27/2018, 9:41:33 PM btc-echo.de
 ||optnmstr.com
@@ -100,7 +100,6 @@ cointelegraph.com###ad-239 > a[href^="https://servedbyadbutler.com/redirect.spar
 ! 2/22/2018, 5:26:06 PM btc-echo.de
 a.optmstr.com^
 api.optmstr.com^
-a.mstrlytcs.com^
 
 ! 2/23/2018, 10:53:37 AM https://www.soeren-hentzschel.at/firefox/firefox-60-automatisches-https-upgrade-fuer-http-ressourcen/
 www.soeren-hentzschel.at##.clear.snippet > .tnemesitrevda
@@ -143,3 +142,8 @@ partner.vxcp.de^
 
 ! 3/29/2018, 8:13:04 PM wowhead.com
 ||datacoral.com^$third-party
+
+||heise.de##.socialmedia-stage
+
+! 3/30/2018, 10:50:47 AM computerbase.de
+||amunx.de^

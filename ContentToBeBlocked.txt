@@ -1,0 +1,145 @@
+! 11/16/2017, 7:13:26 PM pcwelt.de
+||iopushtech.com^$third-party
+
+! 12/24/2017, 12:21:31 PM der-postillon.com
+||steadyhq.com/widget_loader/*
+
+! 12/24/2017, 12:31:20 PM heise.de
+||gzhls.at^$third-party
+
+! 12/24/2017, 12:31:47 PM https://||heise.de/
+||heise.de##.teaser_preisvergleich_top10
+
+! 12/24/2017, 12:32:00 PM https://||heise.de/
+||heise.de###jobware-teaser
+
+! 12/24/2017, 12:32:16 PM https://||heise.de/
+tarifrechner.heise.de$subdocument
+
+! 12/24/2017, 1:11:52 PM https://||heise.de/
+||heise.de##.teaser_hbs
+
+! 12/25/2017, 1:42:34 PM https://||golem.de/
+||golem.de###pricehits
+
+! 12/25/2017, 1:42:44 PM https://||golem.de/
+||golem.de###gts-clip
+
+! 12/25/2017, 1:42:58 PM https://||golem.de/
+||golem.de###job-market
+
+! 1/11/2018, 9:19:08 PM bento.de
+||emsmobile.de^$third-party
+
+! 1/11/2018, 9:19:24 PM bento.de
+||emsservice.de^$third-party
+
+! 1/11/2018, 9:20:43 PM bento.de
+||bento.de/js/live-gujAd.js
+
+! 1/12/2018, 8:04:54 PM btc-echo.de
+||api.oneall.com^
+
+! 1/13/2018, 1:48:12 PM https://||btc-echo.de/
+||btc-echo.de###woocommerce_products-3
+
+! 1/13/2018, 1:48:26 PM https://||btc-echo.de/
+||btc-echo.de###wpjb-recent-jobs-2
+
+! 1/13/2018, 1:48:36 PM https://||btc-echo.de/
+||btc-echo.de###btc-echo-intelli-popular
+
+! 1/14/2018, 3:19:00 PM futurezone.at
+||script-at.iocnt.net^
+
+! 1/14/2018, 3:19:13 PM futurezone.at
+||at.iocnt.net^
+
+! 1/20/2018, 9:12:53 AM golem.de
+||get.contentpass.net^
+
+! 1/20/2018, 10:16:52 AM rmfon.pl
+||clickmatic.pl^
+
+! 1/27/2018, 5:34:34 PM gamestar.de
+||billiger.com/dynimg/*^$third-party
+
+! 1/27/2018, 9:37:25 PM https://||btc-echo.de/mit-schnorr-signaturen-gegen-bitcoins-skalierungsproblem/
+||btc-echo.de##.cookie-notice-container
+
+! 1/27/2018, 9:40:19 PM btc-echo.de
+||mstrlytcs.com^
+
+! 1/27/2018, 9:40:35 PM btc-echo.de
+||api.optnmstr.com^
+
+! 1/27/2018, 9:41:33 PM btc-echo.de
+||optnmstr.com
+
+! 1/27/2018, 9:53:14 PM btc-echo.de
+||narando.com/assets/*
+
+! 1/27/2018, 10:01:32 PM btc-echo.de
+||h-bid.com^
+
+! 2/4/2018, 10:16:51 AM https://www.jetzt.de/ernaehrung/die-meisten-mueslis-sind-genauso-ungesund-wie-ein-stueck-pizza
+||jetzt.de###iqadtile8
+
+! 2/18/2018, 9:43:27 PM https://cointelegraph.com/
+cointelegraph.com###ad-239 > a[href^="https://servedbyadbutler.com/redirect.spark"]
+
+! 2/18/2018, 9:47:54 PM cointelegraph.com
+||cointelegraph.com/assets/js/adbutler.js$script,first-party
+
+! 2/20/2018, 9:11:22 PM https://||btc-echo.de/
+||btc-echo.de##.btc-sponsored-posts
+
+! 2/22/2018, 4:35:09 PM https://||btc-echo.de/
+||btc-echo.de##.adrotate-banner-top
+
+! 2/22/2018, 5:26:06 PM btc-echo.de
+a.optmstr.com^
+api.optmstr.com^
+a.mstrlytcs.com^
+
+! 2/23/2018, 10:53:37 AM https://www.soeren-hentzschel.at/firefox/firefox-60-automatisches-https-upgrade-fuer-http-ressourcen/
+www.soeren-hentzschel.at##.clear.snippet > .tnemesitrevda
+
+! 2/24/2018, 11:33:09 AM zalando.de
+cdn.bunchbox.co^
+
+! 3/4/2018, 1:53:39 PM futurezone.at
+||pusher.com^$third-party
+
+! 3/4/2018, 2:28:23 PM https://cointelegraph.com/
+||cointelegraph.com###editor-choice
+
+! 3/4/2018, 2:30:02 PM https://cointelegraph.com/news/privacy-altcoin-zcash-announces-first-network-update-not-expected-to-be-a-fork
+||cointelegraph.com##a[href^="https://servedbyadbutler.com/redirect.spark"]
+
+! 3/5/2018, 9:15:58 PM https://stadt-bremerhaven.de/android-security-bulletin-maerz-2018-geschlossene-luecken-und-pixel-2-verbesserungen/
+stadt-bremerhaven.de##a[href="https://stadt-bremerhaven.de/huawei-news-hub/"]
+
+! 3/10/2018, 10:24:37 PM https://futurezone.at/
+futurezone.at##.standard.poweredby
+
+! 3/11/2018, 6:01:31 PM https://netzpolitik.org/2018/eu-kommission-ungleichheit-im-it-bereich-setzt-sich-fort/
+netzpolitik.org##.netzpolitik-cta
+
+! 3/16/2018, 8:28:18 PM https://||btc-echo.de/kleiman-vs-wright-prozess-geht-in-die-naechste-runde/
+||btc-echo.de/wp-content/banners/anycoindirect72890.jpg$image
+
+! 3/20/2018, 6:49:13 PM https://||btc-echo.de/update-krypto-werbeverbot-auf-twitter-schon-in-zwei-wochen/
+||btc-echo.de###post-40470 > .entry-content > .code-block-1.code-block > .g-17.g
+
+! 3/26/2018, 6:46:01 PM https://||heise.de/
+||heise.de##.us_hbs
+
+! 3/26/2018, 6:47:01 PM heise.de
+partner.vxcp.de^
+
+! 3/29/2018, 8:12:53 PM wowhead.com
+||datacoral.io^$third-party
+
+! 3/29/2018, 8:13:04 PM wowhead.com
+||datacoral.com^$third-party

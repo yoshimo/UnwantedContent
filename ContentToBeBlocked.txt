@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Yoshimos Own Filters
+! Description: Filters that are not part of common public lists
+! Expires: 2 days
+
 ! 11/16/2017, 7:13:26 PM pcwelt.de
 ||iopushtech.com^$third-party
 

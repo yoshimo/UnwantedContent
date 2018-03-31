@@ -13,25 +13,25 @@
 ||gzhls.at^$third-party
 
 ! 12/24/2017, 12:31:47 PM https://||heise.de/
-||heise.de##.teaser_preisvergleich_top10
+heise.de##.teaser_preisvergleich_top10
 
 ! 12/24/2017, 12:32:00 PM https://||heise.de/
-||heise.de###jobware-teaser
+heise.de###jobware-teaser
 
 ! 12/24/2017, 12:32:16 PM https://||heise.de/
 tarifrechner.heise.de$subdocument
 
 ! 12/24/2017, 1:11:52 PM https://||heise.de/
-||heise.de##.teaser_hbs
+heise.de##.teaser_hbs
 
 ! 12/25/2017, 1:42:34 PM https://||golem.de/
-||golem.de###pricehits
+golem.de###pricehits
 
 ! 12/25/2017, 1:42:44 PM https://||golem.de/
-||golem.de###gts-clip
+golem.de###gts-clip
 
 ! 12/25/2017, 1:42:58 PM https://||golem.de/
-||golem.de###job-market
+golem.de###job-market
 
 ! 1/11/2018, 9:19:08 PM bento.de
 ||emsmobile.de^$third-party
@@ -46,13 +46,13 @@ tarifrechner.heise.de$subdocument
 ||api.oneall.com^
 
 ! 1/13/2018, 1:48:12 PM https://||btc-echo.de/
-||btc-echo.de###woocommerce_products-3
+btc-echo.de###woocommerce_products-3
 
 ! 1/13/2018, 1:48:26 PM https://||btc-echo.de/
-||btc-echo.de###wpjb-recent-jobs-2
+btc-echo.de###wpjb-recent-jobs-2
 
 ! 1/13/2018, 1:48:36 PM https://||btc-echo.de/
-||btc-echo.de###btc-echo-intelli-popular
+btc-echo.de###btc-echo-intelli-popular
 
 ! 1/14/2018, 3:19:00 PM futurezone.at
 ||script-at.iocnt.net^
@@ -70,7 +70,7 @@ tarifrechner.heise.de$subdocument
 ||billiger.com/dynimg/*^$third-party
 
 ! 1/27/2018, 9:37:25 PM https://||btc-echo.de/mit-schnorr-signaturen-gegen-bitcoins-skalierungsproblem/
-||btc-echo.de##.cookie-notice-container
+btc-echo.de##.cookie-notice-container
 
 ! 1/27/2018, 9:40:19 PM btc-echo.de
 ||mstrlytcs.com^$third-party
@@ -88,7 +88,7 @@ api.optnmstr.com^
 ||h-bid.com^
 
 ! 2/4/2018, 10:16:51 AM https://www.jetzt.de/ernaehrung/die-meisten-mueslis-sind-genauso-ungesund-wie-ein-stueck-pizza
-||jetzt.de###iqadtile8
+jetzt.de###iqadtile8
 
 ! 2/18/2018, 9:43:27 PM https://cointelegraph.com/
 cointelegraph.com###ad-239 > a[href^="https://servedbyadbutler.com/redirect.spark"]
@@ -97,10 +97,10 @@ cointelegraph.com###ad-239 > a[href^="https://servedbyadbutler.com/redirect.spar
 ||cointelegraph.com/assets/js/adbutler.js$script,first-party
 
 ! 2/20/2018, 9:11:22 PM https://||btc-echo.de/
-||btc-echo.de##.btc-sponsored-posts
+btc-echo.de##.btc-sponsored-posts
 
 ! 2/22/2018, 4:35:09 PM https://||btc-echo.de/
-||btc-echo.de##.adrotate-banner-top
+btc-echo.de##.adrotate-banner-top
 
 ! 2/22/2018, 5:26:06 PM btc-echo.de
 a.optmstr.com^
@@ -116,10 +116,10 @@ cdn.bunchbox.co^
 ||pusher.com^$third-party
 
 ! 3/4/2018, 2:28:23 PM https://cointelegraph.com/
-||cointelegraph.com###editor-choice
+cointelegraph.com###editor-choice
 
 ! 3/4/2018, 2:30:02 PM https://cointelegraph.com/news/privacy-altcoin-zcash-announces-first-network-update-not-expected-to-be-a-fork
-||cointelegraph.com##a[href^="https://servedbyadbutler.com/redirect.spark"]
+cointelegraph.com##a[href^="https://servedbyadbutler.com/redirect.spark"]
 
 ! 3/5/2018, 9:15:58 PM https://stadt-bremerhaven.de/android-security-bulletin-maerz-2018-geschlossene-luecken-und-pixel-2-verbesserungen/
 stadt-bremerhaven.de##a[href="https://stadt-bremerhaven.de/huawei-news-hub/"]
@@ -134,10 +134,10 @@ netzpolitik.org##.netzpolitik-cta
 ||btc-echo.de/wp-content/banners/anycoindirect72890.jpg$image
 
 ! 3/20/2018, 6:49:13 PM https://||btc-echo.de/update-krypto-werbeverbot-auf-twitter-schon-in-zwei-wochen/
-||btc-echo.de###post-40470 > .entry-content > .code-block-1.code-block > .g-17.g
+btc-echo.de###post-40470 > .entry-content > .code-block-1.code-block > .g-17.g
 
 ! 3/26/2018, 6:46:01 PM https://||heise.de/
-||heise.de##.us_hbs
+heise.de##.us_hbs
 
 ! 3/26/2018, 6:47:01 PM heise.de
 partner.vxcp.de^
@@ -148,7 +148,7 @@ partner.vxcp.de^
 ! 3/29/2018, 8:13:04 PM wowhead.com
 ||datacoral.com^$third-party
 
-||heise.de##.socialmedia-stage
+heise.de##.socialmedia-stage
 
 ! 3/30/2018, 10:50:47 AM computerbase.de
 ||amunx.de^

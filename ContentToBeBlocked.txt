@@ -42,18 +42,6 @@ golem.de###job-market
 ! 1/11/2018, 9:20:43 PM bento.de
 ||bento.de/js/live-gujAd.js
 
-! 1/12/2018, 8:04:54 PM btc-echo.de
-||api.oneall.com^
-
-! 1/13/2018, 1:48:12 PM https://||btc-echo.de/
-btc-echo.de###woocommerce_products-3
-
-! 1/13/2018, 1:48:26 PM https://||btc-echo.de/
-btc-echo.de###wpjb-recent-jobs-2
-
-! 1/13/2018, 1:48:36 PM https://||btc-echo.de/
-btc-echo.de###btc-echo-intelli-popular
-
 ! 1/14/2018, 3:19:00 PM futurezone.at
 ||script-at.iocnt.net^
 
@@ -68,9 +56,6 @@ btc-echo.de###btc-echo-intelli-popular
 
 ! 1/27/2018, 5:34:34 PM gamestar.de
 ||billiger.com/dynimg/*^$third-party
-
-! 1/27/2018, 9:37:25 PM https://||btc-echo.de/mit-schnorr-signaturen-gegen-bitcoins-skalierungsproblem/
-btc-echo.de##.cookie-notice-container
 
 ! 1/27/2018, 9:40:19 PM btc-echo.de
 ||mstrlytcs.com^$third-party
@@ -95,12 +80,6 @@ cointelegraph.com###ad-239 > a[href^="https://servedbyadbutler.com/redirect.spar
 
 ! 2/18/2018, 9:47:54 PM cointelegraph.com
 ||cointelegraph.com/assets/js/adbutler.js$script,first-party
-
-! 2/20/2018, 9:11:22 PM https://||btc-echo.de/
-btc-echo.de##.btc-sponsored-posts
-
-! 2/22/2018, 4:35:09 PM https://||btc-echo.de/
-btc-echo.de##.adrotate-banner-top
 
 ! 2/22/2018, 5:26:06 PM btc-echo.de
 a.optmstr.com^
@@ -130,12 +109,6 @@ futurezone.at##.standard.poweredby
 ! 3/11/2018, 6:01:31 PM https://netzpolitik.org/2018/eu-kommission-ungleichheit-im-it-bereich-setzt-sich-fort/
 netzpolitik.org##.netzpolitik-cta
 
-! 3/16/2018, 8:28:18 PM https://||btc-echo.de/kleiman-vs-wright-prozess-geht-in-die-naechste-runde/
-||btc-echo.de/wp-content/banners/anycoindirect72890.jpg$image
-
-! 3/20/2018, 6:49:13 PM https://||btc-echo.de/update-krypto-werbeverbot-auf-twitter-schon-in-zwei-wochen/
-btc-echo.de###post-40470 > .entry-content > .code-block-1.code-block > .g-17.g
-
 ! 3/26/2018, 6:46:01 PM https://||heise.de/
 heise.de##.us_hbs
 
@@ -152,3 +125,158 @@ heise.de##.socialmedia-stage
 
 ! 3/30/2018, 10:50:47 AM computerbase.de
 ||amunx.de^
+
+! 3/31/2018, 12:32:52 PM stadt-bremerhaven.de
+||likemore-go.imgsmail.ru^
+
+! 3/31/2018, 3:45:22 PM seattletimes.com
+||awsapi.seattletimes.com/clientip
+
+! 4/4/2018, 7:58:59 PM stadt-bremerhaven.de
+||likemore-go.imgsmail.ru/widget.js
+
+! 4/7/2018, 6:19:00 PM https://www.golem.de/news/bundesregierung-bka-knackt-schwache-passwoerter-ohne-supercomputer-1804-133716.html#comments
+www.golem.de###recent-articles
+
+! 4/7/2018, 6:19:12 PM https://www.golem.de/news/bundesregierung-bka-knackt-schwache-passwoerter-ohne-supercomputer-1804-133716.html#comments
+www.golem.de###related
+
+! 4/13/2018, 12:40:12 PM main-spitze.de
+||backoffice.transmatico.com/get
+
+! 4/23/2018, 8:37:45 PM https://www.androidpit.de/samsung-galaxy-s9-plus-lineage-os-installation-test
+www.androidpit.de###review-where-to-buy
+
+! 4/23/2018, 8:40:33 PM https://www.jetzt.de/
+www.jetzt.de##.stream__list-item--xl.stream__list-item--ad4
+
+! 4/23/2018, 8:40:56 PM https://www.jetzt.de/
+www.jetzt.de##.stream__list-item--xl.stream__list-item--ad5
+
+! 4/28/2018, 8:11:30 PM https://www.mittelbayerische.de/
+www.mittelbayerische.de##.ad-medium-rectangle-item
+
+! 4/28/2018, 8:11:46 PM https://www.mittelbayerische.de/
+www.mittelbayerische.de##.hide-below-980.ad-fullwidth
+
+! 4/30/2018, 9:21:57 PM pcwelt.de
+||fgudqqluv.com^
+
+! 5/5/2018, 6:44:52 PM https://www.taz.de/Neue-Verschluesselungssoftware/!5503359/
+www.taz.de###tzi-paywahl-bg
+
+! 5/5/2018, 6:45:03 PM https://www.taz.de/Neue-Verschluesselungssoftware/!5503359/
+www.taz.de###tzi-paywahl-fg
+
+! 5/12/2018, 5:08:54 PM https://www.techstage.de/test/Redmi-5-Plus-im-Test-solide-Mittelklasse-fuer-kleines-Geld-4047432.html?wt_mc=intern.newsticker.anrissliste.techstage
+www.techstage.de###pvg-deals-anchor
+
+! 5/12/2018, 5:10:04 PM https://www.techstage.de/test/Redmi-5-Plus-im-Test-solide-Mittelklasse-fuer-kleines-Geld-4047432.html?wt_mc=intern.newsticker.anrissliste.techstage
+www.techstage.de##.a-pvgs
+
+! 5/13/2018, 10:15:55 AM btc-echo.de
+||d9etzk30b05yg.cloudfront.net/js/sdk/v2.0/apester-javascript-sdk.min.js
+
+||deoi3kwqhv0d5.cloudfront.net^
+|http://$script,third-party,domain=pcwelt.de
+|https://$script,third-party,domain=pcwelt.de
+@@||disqus.com^$script,domain=pcwelt.de
+@@||disquscdn.com^$script,domain=pcwelt.de
+||contentza.com^$third-party
+||amazonaws.com/static.contentza.com/widgets
+
+! 5/20/2018, 7:26:58 PM https://www.watson.ch/Digital/Schweiz/931923761-Darum-sind-Geldspielgesetz-und-Internet-Sperren-viel-gefaehrlicher--als-du-glaubst
+www.watson.ch##.hide_on_mobile.frog_block_alert.adget
+
+! 5/20/2018, 7:50:19 PM watson.ch
+||adquality.ch^
+
+! 5/21/2018, 2:28:04 PM geizhals.at
+@@||gzhls.at^$domain=geizhals.at
+
+kino-zeit.de##script:inject(abort-current-inline-script.js, notice, adnotice)
+
+! 5/24/2018, 9:18:07 PM https://stadt-bremerhaven.de/qualcomm-snapdragon-710-neuer-soc-zwischen-high-end-und-mittelklasse/#comments
+stadt-bremerhaven.de##.related-posts
+
+! 5/26/2018, 11:31:40 AM https://www.br.de/br-fernsehen/sendungen/homo-digitalis/index.html
+www.br.de###brCookieBanner
+
+! 5/26/2018, 10:26:57 PM https://derstandard.at/
+derstandard.at##.privacywall-background
+
+! 5/27/2018, 3:02:34 PM ownedcore.com
+||www.tekowned.com^
+
+@@||feistyduck.com^$generichide
+
+! 5/31/2018, 9:26:57 PM https://www.phoronix.com/scan.php?page=news_item&px=Reusable-DRM-Module-Underserved
+www.phoronix.com###\38 299052
+
+! 6/2/2018, 12:50:47 PM derstandard.at
+||at.staticfiles.at/js/privacywall-26a87a86ce.js$script,domain=derstandard.at
+
+! 6/10/2018, 11:48:36 AM evidon.com
+@@||munchkin.marketo.net^$script,domain=www.evidon.com
+
+! 6/16/2018, 7:16:18 PM https://www.twitch.tv/warcraft
+www.twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text.tw-c-background-accent-alt-2.tw-border-b.tw-align-items-center.gdpr-consent-banner
+
+! 6/19/2018, 6:15:03 PM https://www.heise.de/
+www.heise.de##.a-article-teaser--sponsored
+
+! 6/20/2018, 9:33:27 PM https://stadt-bremerhaven.de/oneplus-integration-von-google-lens-in-die-kamera-app/
+stadt-bremerhaven.de##.asa_product_box
+
+! 7/2/2018, 6:27:57 PM https://cointelegraph.com/
+cointelegraph.com##.b-widget-jobs__wrap
+
+! 7/4/2018, 6:46:09 PM https://forum.golem.de/kommentare/handy/librem-5-freies-linux-smartphone-wird-groesser-und-kantig/117753,list.html
+forum.golem.de###abo-clip
+
+! 7/7/2018, 5:04:12 PM daserste.de
+||data.argosdata.io^
+
+! 7/11/2018, 11:50:14 AM https://futurezone.at/netzpolitik/oesterreich-macht-sich-fuer-user-tracking-in-eu-verordnung-stark/400064447
+futurezone.at##.siteCookie
+
+||deoi3kwqhv0d5.cloudfront.net^
+|http://$script,third-party,domain=pcwelt.de
+|https://$script,third-party,domain=pcwelt.de
+@@||disqus.com^$script,domain=pcwelt.de
+@@||disquscdn.com^$script,domain=pcwelt.de
+
+||contentza.com^$third-party
+||amazonaws.com/static.contentza.com/widgets
+
+! 8/3/2018, 7:48:25 PM https://www.heise.de/
+www.heise.de##.a-article-teaser--sponsored
+
+! 8/22/2018, 9:08:48 AM https://www.heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
+www.heise.de##.hoteaser
+
+! 8/22/2018, 9:08:59 AM https://www.heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
+www.heise.de##.akwa-ad-container__us-ad
+
+! 9/6/2018, 7:37:09 PM golem.de
+||www.golem.de/*/sp_*.jpg
+
+
+||svonm.com/hd-main.js$script,redirect=hd-main.js,domain=wetter.de
+
+wetter.de##script:inject(golem.de.js)
+
+! 10/27/2018, 10:42:29 AM https://www.heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
+www.heise.de##.i-amphtml-fx-flying-carpet-clip
+
+! 10/27/2018, 10:42:39 AM https://www.heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
+www.heise.de##.tipps-content-ad__flying-carpet.tipps-content-ad
+
+! 11/15/2018, 6:36:04 PM https://www.queer.de/detail.php?article_id=32351
+www.queer.de###klmvid
+
+! 11/16/2018, 9:32:26 AM https://netzpolitik.org/2018/studie-64-praktische-vorschlaege-fuer-eine-bessere-kontrolle-der-massenueberwachung/
+netzpolitik.org###spendenleiste
+
+! 11/17/2018, 8:43:12 AM https://github.com/notifications
+github.com##.unsupported-browser

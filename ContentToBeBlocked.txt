@@ -9,8 +9,6 @@
 ! 12/24/2017, 12:21:31 PM der-postillon.com
 ||steadyhq.com/widget_loader/*
 
-! 12/24/2017, 12:31:20 PM heise.de
-||gzhls.at^$third-party
 
 ! 12/24/2017, 12:31:47 PM https://||heise.de/
 heise.de##.teaser_preisvergleich_top10
@@ -190,9 +188,6 @@ www.watson.ch##.hide_on_mobile.frog_block_alert.adget
 
 ! 5/20/2018, 7:50:19 PM watson.ch
 ||adquality.ch^
-
-! 5/21/2018, 2:28:04 PM geizhals.at
-@@||gzhls.at^$domain=geizhals.at
 
 kino-zeit.de##script:inject(abort-current-inline-script.js, notice, adnotice)
 

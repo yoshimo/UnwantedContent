@@ -388,3 +388,21 @@ www.spiegel.de##.module-box.gutscheine-widget
 www.internetanbieter.de##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
 
 www.btc-echo.de##.elementor
+
+! 30.11.2019  C-Name Alias : heise02.webtrekk.net
+prophet.heise.de
+
+! 30.11.2019 - performance improvement
+heise.de##script:contains(kameleoon)
+www.heise.de##script:contains(kameleoon)
+
+! 11/12/2019 https://forum.golem.de GolemPur-Werbung
+forum.golem.de##.section-gpure__btn
+
+! 11/12/2019 https://www.golem.de GolemPur-Werbung
+www.golem.de##.section-gpure__btn
+www.golem.de##.section-gpure
+
+! 11/12/2019 https://www.golem.de GolemPur-Werbung
+golem.de##.section-gpure__btn
+golem.de##.section-gpure

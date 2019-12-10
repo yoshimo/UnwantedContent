@@ -19,9 +19,6 @@ heise.de###jobware-teaser
 ! 12/24/2017, 12:32:16 PM https://||heise.de/
 tarifrechner.heise.de$subdocument
 
-! 12/24/2017, 1:11:52 PM https://||heise.de/
-heise.de##.teaser_hbs
-
 ! 12/25/2017, 1:42:34 PM https://||golem.de/
 golem.de###pricehits
 
@@ -217,8 +214,8 @@ www.phoronix.com###\38 299052
 ! 6/16/2018, 7:16:18 PM https://www.twitch.tv/warcraft
 www.twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text.tw-c-background-accent-alt-2.tw-border-b.tw-align-items-center.gdpr-consent-banner
 
-! 6/19/2018, 6:15:03 PM https://www.heise.de/
-www.heise.de##.a-article-teaser--sponsored
+! 6/19/2018, 6:15:03 PM https://||heise.de/
+||heise.de##.a-article-teaser--sponsored
 
 ! 6/20/2018, 9:33:27 PM https://stadt-bremerhaven.de/oneplus-integration-von-google-lens-in-die-kamera-app/
 stadt-bremerhaven.de##.asa_product_box
@@ -244,14 +241,14 @@ futurezone.at##.siteCookie
 ||contentza.com^$third-party
 ||amazonaws.com/static.contentza.com/widgets
 
-! 8/3/2018, 7:48:25 PM https://www.heise.de/
-www.heise.de##.a-article-teaser--sponsored
+! 8/3/2018, 7:48:25 PM https://||heise.de/
+||heise.de##.a-article-teaser--sponsored
 
-! 8/22/2018, 9:08:48 AM https://www.heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
-www.heise.de##.hoteaser
+! 8/22/2018, 9:08:48 AM https://||heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
+||heise.de##.hoteaser
 
-! 8/22/2018, 9:08:59 AM https://www.heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
-www.heise.de##.akwa-ad-container__us-ad
+! 8/22/2018, 9:08:59 AM https://||heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
+||heise.de##.akwa-ad-container__us-ad
 
 ! 9/6/2018, 7:37:09 PM golem.de
 ||www.golem.de/*/sp_*.jpg
@@ -260,11 +257,11 @@ www.heise.de##.akwa-ad-container__us-ad
 
 wetter.de##script:inject(golem.de.js)
 
-! 10/27/2018, 10:42:29 AM https://www.heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
-www.heise.de##.i-amphtml-fx-flying-carpet-clip
+! 10/27/2018, 10:42:29 AM https://||heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
+||heise.de##.i-amphtml-fx-flying-carpet-clip
 
-! 10/27/2018, 10:42:39 AM https://www.heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
-www.heise.de##.tipps-content-ad__flying-carpet.tipps-content-ad
+! 10/27/2018, 10:42:39 AM https://||heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
+||heise.de##.tipps-content-ad__flying-carpet.tipps-content-ad
 
 ! 11/15/2018, 6:36:04 PM https://www.queer.de/detail.php?article_id=32351
 www.queer.de###klmvid
@@ -278,14 +275,14 @@ github.com##.unsupported-browser
 ! 11/19/2018, 2:51:54 PM golem.de
 ||atonato.de^
 
-! 11/24/2018, 12:16:11 PM https://www.heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
-www.heise.de##.tipps-related-articles
+! 11/24/2018, 12:16:11 PM https://||heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
+||heise.de##.tipps-related-articles
 
-! 11/24/2018, 12:16:43 PM https://www.heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
-www.heise.de##.tipps-main-content > aside.tipps-content-ad
+! 11/24/2018, 12:16:43 PM https://||heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
+||heise.de##.tipps-main-content > aside.tipps-content-ad
 
-! 11/24/2018, 12:17:01 PM https://www.heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
-www.heise.de##aside.tipps-content-ad> .tipps-content-ad__link
+! 11/24/2018, 12:17:01 PM https://||heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
+||heise.de##aside.tipps-content-ad> .tipps-content-ad__link
 
 ! 12/2/2018, 9:40:32 AM https://www.tagesanzeiger.ch/wirtschaft/unternehmen-und-konjunktur/Ein-Desaster-fuer-Orell-Fuesslis-Sicherheitsdruck/story/30006890
 www.tagesanzeiger.ch###mainColRightPublireportage > .publireportage.teaserEditorialContent
@@ -317,8 +314,8 @@ t3n.de##.tg-article-jobs
 ! 1/17/2019, 9:09:16 PM https://www.jetzt.de/
 www.jetzt.de##.teaser--spost
 
-! 1/18/2019, 8:25:28 PM https://www.heise.de/newsticker/
-www.heise.de##.archiv-liste__item--sponsored
+! 1/18/2019, 8:25:28 PM https://||heise.de/newsticker/
+||heise.de##.archiv-liste__item--sponsored
 
 ! 2/24/2019 https://www.deutschlandfunk.de
 www.deutschlandfunk.de##.dlf-relatedslide
@@ -337,7 +334,7 @@ www.der-bank-blog.de###skyscraper-links
 www.youtube.com##.ytd-popup-container
 
 ! 5/4/2019 https://www.golem.de
-www.golem.de###a2a-popup
+||golem.de###a2a-popup
 
 ! 5/4/2019 golem.de
 ||a2a-static.golem.de^
@@ -346,11 +343,11 @@ www.golem.de###a2a-popup
 www.btc-echo.de###btcee-2074754150
 
 ! 5/11/2019 https://www.netflix.com
-www.netflix.com##.nf-modal-background
-www.netflix.com##.uma-modal.nf-modal
+||netflix.com##.nf-modal-background
+||netflix.com##.uma-modal.nf-modal
 
 ! 5/13/2019 https://www.computerbase.de
-www.computerbase.de##.block1--ads
+||computerbase.de##.block1--ads
 
 ! 5/13/2019 computerbase.de
 ||ram.amunx.de^
@@ -359,13 +356,13 @@ www.computerbase.de##.block1--ads
 twitter.com##.Banner--red.Banner--aboveNav.Banner
 
 ! 6/10/2019 https://www.computerbase.de
-www.computerbase.de##.js-promobar.promobar
+||computerbase.de##.js-promobar.promobar
 
 ! 6/30/2019 https://ze.tt
 ze.tt##div.breakout-article-body-desktop.ich-bin-harmlos
 
-! 7/4/2019 https://www.heise.de
-www.heise.de##em
+! 7/4/2019 https://||heise.de
+||heise.de##em
 
 ! 7/27/2019 sueddeutsche.de
 ||push.delivery.ethinking.de^
@@ -377,7 +374,7 @@ www.heise.de##em
 www.queer.de##div.vidzkasten
 
 ! 9/8/2019 https://www.spiegel.de
-www.spiegel.de##.module-box.gutscheine-widget
+||spiegel.de##.module-box.gutscheine-widget
 
 ! 9/15/2019 welt.de
 ||tags.tiqcdn.com/utag/*
@@ -393,16 +390,14 @@ www.btc-echo.de##.elementor
 prophet.heise.de
 
 ! 30.11.2019 - performance improvement
-heise.de##script:contains(kameleoon)
-www.heise.de##script:contains(kameleoon)
-
-! 11/12/2019 https://forum.golem.de GolemPur-Werbung
-forum.golem.de##.section-gpure__btn
+||heise.de##script:contains(kameleoon)
 
 ! 11/12/2019 https://www.golem.de GolemPur-Werbung
-www.golem.de##.section-gpure__btn
-www.golem.de##.section-gpure
+||golem.de##.section-gpure__btn
+||golem.de##.section-gpure
 
-! 11/12/2019 https://www.golem.de GolemPur-Werbung
-golem.de##.section-gpure__btn
-golem.de##.section-gpure
+! 12/7/2019 https://||heise.de
+||heise.de##.a-pvgs
+
+! 12/10/2019 berlin.de
+||w7.berlin.de^

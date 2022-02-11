@@ -5,173 +5,116 @@
 
 ! 11/16/2017, 7:13:26 PM pcwelt.de
 ||iopushtech.com^$third-party
-
 ! 12/24/2017, 12:21:31 PM der-postillon.com
 ||steadyhq.com/widget_loader/*
-
-
 ! 12/24/2017, 12:31:47 PM https://||heise.de/
 heise.de##.teaser_preisvergleich_top10
-
 ! 12/24/2017, 12:32:00 PM https://||heise.de/
 heise.de###jobware-teaser
-
 ! 12/24/2017, 12:32:16 PM https://||heise.de/
 tarifrechner.heise.de$subdocument
-
 ! 12/25/2017, 1:42:34 PM https://||golem.de/
 golem.de###pricehits
-
 ! 12/25/2017, 1:42:44 PM https://||golem.de/
 golem.de###gts-clip
-
 ! 12/25/2017, 1:42:58 PM https://||golem.de/
 golem.de###job-market
-
 ! 1/11/2018, 9:19:08 PM bento.de
 ||emsmobile.de^$third-party
-
 ! 1/11/2018, 9:19:24 PM bento.de
 ||emsservice.de^$third-party
-
 ! 1/11/2018, 9:20:43 PM bento.de
 ||bento.de/js/live-gujAd.js
-
 ! 1/14/2018, 3:19:00 PM futurezone.at
 ||script-at.iocnt.net^
-
 ! 1/14/2018, 3:19:13 PM futurezone.at
 ||at.iocnt.net^
-
 ! 1/20/2018, 9:12:53 AM golem.de
 ||get.contentpass.net^
-
 ! 1/20/2018, 10:16:52 AM rmfon.pl
 ||clickmatic.pl^
-
 ! 1/27/2018, 5:34:34 PM gamestar.de
 ||billiger.com/dynimg/*^$third-party
-
 ! 1/27/2018, 9:40:19 PM btc-echo.de
 ||mstrlytcs.com^$third-party
-
 ! 1/27/2018, 9:40:35 PM btc-echo.de
 api.optnmstr.com^
-
 ! 1/27/2018, 9:41:33 PM btc-echo.de
 ||optnmstr.com
-
 ! 1/27/2018, 9:53:14 PM btc-echo.de
 ||narando.com/assets/*
-
 ! 1/27/2018, 10:01:32 PM btc-echo.de
 ||h-bid.com^
-
 ! 2/4/2018, 10:16:51 AM https://www.jetzt.de/ernaehrung/die-meisten-mueslis-sind-genauso-ungesund-wie-ein-stueck-pizza
 jetzt.de###iqadtile8
-
 ! 2/18/2018, 9:43:27 PM https://cointelegraph.com/
 cointelegraph.com###ad-239 > a[href^="https://servedbyadbutler.com/redirect.spark"]
-
 ! 2/18/2018, 9:47:54 PM cointelegraph.com
 ||cointelegraph.com/assets/js/adbutler.js$script,first-party
-
 ! 2/22/2018, 5:26:06 PM btc-echo.de
 a.optmstr.com^
 api.optmstr.com^
-
 ! 2/23/2018, 10:53:37 AM https://www.soeren-hentzschel.at/firefox/firefox-60-automatisches-https-upgrade-fuer-http-ressourcen/
 www.soeren-hentzschel.at##.clear.snippet > .tnemesitrevda
-
 ! 2/24/2018, 11:33:09 AM zalando.de
 cdn.bunchbox.co^
-
 ! 3/4/2018, 1:53:39 PM futurezone.at
 ||pusher.com^$third-party
-
 ! 3/4/2018, 2:28:23 PM https://cointelegraph.com/
 cointelegraph.com###editor-choice
-
 ! 3/4/2018, 2:30:02 PM https://cointelegraph.com/news/privacy-altcoin-zcash-announces-first-network-update-not-expected-to-be-a-fork
 cointelegraph.com##a[href^="https://servedbyadbutler.com/redirect.spark"]
-
 ! 3/5/2018, 9:15:58 PM https://stadt-bremerhaven.de/android-security-bulletin-maerz-2018-geschlossene-luecken-und-pixel-2-verbesserungen/
 stadt-bremerhaven.de##a[href="https://stadt-bremerhaven.de/huawei-news-hub/"]
-
 ! 3/10/2018, 10:24:37 PM https://futurezone.at/
 futurezone.at##.standard.poweredby
-
 ! 3/11/2018, 6:01:31 PM https://netzpolitik.org/2018/eu-kommission-ungleichheit-im-it-bereich-setzt-sich-fort/
 netzpolitik.org##.netzpolitik-cta
-
 ! 3/26/2018, 6:46:01 PM https://||heise.de/
 heise.de##.us_hbs
-
 ! 3/26/2018, 6:47:01 PM heise.de
 partner.vxcp.de^
-
 ! 3/29/2018, 8:12:53 PM wowhead.com
 ||datacoral.io^$third-party
-
 ! 3/29/2018, 8:13:04 PM wowhead.com
 ||datacoral.com^$third-party
-
 heise.de##.socialmedia-stage
-
 ! 3/30/2018, 10:50:47 AM computerbase.de
 ||amunx.de^
-
 ! 3/31/2018, 12:32:52 PM stadt-bremerhaven.de
 ||likemore-go.imgsmail.ru^
-
 ! 3/31/2018, 3:45:22 PM seattletimes.com
 ||awsapi.seattletimes.com/clientip
-
 ! 4/4/2018, 7:58:59 PM stadt-bremerhaven.de
 ||likemore-go.imgsmail.ru/widget.js
-
 ! 4/7/2018, 6:19:00 PM https://www.golem.de/news/bundesregierung-bka-knackt-schwache-passwoerter-ohne-supercomputer-1804-133716.html#comments
 www.golem.de###recent-articles
-
 ! 4/7/2018, 6:19:12 PM https://www.golem.de/news/bundesregierung-bka-knackt-schwache-passwoerter-ohne-supercomputer-1804-133716.html#comments
 www.golem.de###related
-
 ! 4/13/2018, 12:40:12 PM main-spitze.de
 ||backoffice.transmatico.com/get
-
 ! 4/23/2018, 8:37:45 PM https://www.androidpit.de/samsung-galaxy-s9-plus-lineage-os-installation-test
 www.androidpit.de###review-where-to-buy
-
 ! 4/23/2018, 8:40:33 PM https://www.jetzt.de/
 www.jetzt.de##.stream__list-item--xl.stream__list-item--ad4
-
 ! 4/23/2018, 8:40:56 PM https://www.jetzt.de/
 www.jetzt.de##.stream__list-item--xl.stream__list-item--ad5
-
 ! 4/28/2018, 8:11:30 PM https://www.mittelbayerische.de/
 www.mittelbayerische.de##.ad-medium-rectangle-item
-
 ! 4/28/2018, 8:11:46 PM https://www.mittelbayerische.de/
 www.mittelbayerische.de##.hide-below-980.ad-fullwidth
-
 ! 4/30/2018, 9:21:57 PM pcwelt.de
 ||fgudqqluv.com^
-
 ! 5/5/2018, 6:44:52 PM https://www.taz.de/Neue-Verschluesselungssoftware/!5503359/
 www.taz.de###tzi-paywahl-bg
-
 ! 5/5/2018, 6:45:03 PM https://www.taz.de/Neue-Verschluesselungssoftware/!5503359/
 www.taz.de###tzi-paywahl-fg
-
 ! 5/12/2018, 5:08:54 PM https://www.techstage.de/test/Redmi-5-Plus-im-Test-solide-Mittelklasse-fuer-kleines-Geld-4047432.html?wt_mc=intern.newsticker.anrissliste.techstage
 www.techstage.de###pvg-deals-anchor
-
 ! 5/12/2018, 5:10:04 PM https://www.techstage.de/test/Redmi-5-Plus-im-Test-solide-Mittelklasse-fuer-kleines-Geld-4047432.html?wt_mc=intern.newsticker.anrissliste.techstage
 www.techstage.de##.a-pvgs
-
 ! 5/13/2018, 10:15:55 AM btc-echo.de
 ||d9etzk30b05yg.cloudfront.net/js/sdk/v2.0/apester-javascript-sdk.min.js
-
 ||deoi3kwqhv0d5.cloudfront.net^
 |http://$script,third-party,domain=pcwelt.de
 |https://$script,third-party,domain=pcwelt.de
@@ -179,225 +122,234 @@ www.techstage.de##.a-pvgs
 @@||disquscdn.com^$script,domain=pcwelt.de
 ||contentza.com^$third-party
 ||amazonaws.com/static.contentza.com/widgets
-
 ! 5/20/2018, 7:26:58 PM https://www.watson.ch/Digital/Schweiz/931923761-Darum-sind-Geldspielgesetz-und-Internet-Sperren-viel-gefaehrlicher--als-du-glaubst
 www.watson.ch##.hide_on_mobile.frog_block_alert.adget
-
 ! 5/20/2018, 7:50:19 PM watson.ch
 ||adquality.ch^
-
 kino-zeit.de##script:inject(abort-current-inline-script.js, notice, adnotice)
-
 ! 5/24/2018, 9:18:07 PM https://stadt-bremerhaven.de/qualcomm-snapdragon-710-neuer-soc-zwischen-high-end-und-mittelklasse/#comments
 stadt-bremerhaven.de##.related-posts
-
 ! 5/26/2018, 11:31:40 AM https://www.br.de/br-fernsehen/sendungen/homo-digitalis/index.html
 www.br.de###brCookieBanner
-
 ! 5/26/2018, 10:26:57 PM https://derstandard.at/
 derstandard.at##.privacywall-background
-
 ! 5/27/2018, 3:02:34 PM ownedcore.com
 ||www.tekowned.com^
-
 @@||feistyduck.com^$generichide
-
 ! 5/31/2018, 9:26:57 PM https://www.phoronix.com/scan.php?page=news_item&px=Reusable-DRM-Module-Underserved
 www.phoronix.com###\38 299052
-
 ! 6/2/2018, 12:50:47 PM derstandard.at
 ||at.staticfiles.at/js/privacywall-26a87a86ce.js$script,domain=derstandard.at
-
 ! 6/10/2018, 11:48:36 AM evidon.com
 @@||munchkin.marketo.net^$script,domain=www.evidon.com
-
 ! 6/16/2018, 7:16:18 PM https://www.twitch.tv/warcraft
 www.twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text.tw-c-background-accent-alt-2.tw-border-b.tw-align-items-center.gdpr-consent-banner
-
 ! 6/19/2018, 6:15:03 PM https://||heise.de/
 ||heise.de##.a-article-teaser--sponsored
-
 ! 6/20/2018, 9:33:27 PM https://stadt-bremerhaven.de/oneplus-integration-von-google-lens-in-die-kamera-app/
 stadt-bremerhaven.de##.asa_product_box
-
 ! 7/2/2018, 6:27:57 PM https://cointelegraph.com/
 cointelegraph.com##.b-widget-jobs__wrap
-
 ! 7/4/2018, 6:46:09 PM https://forum.golem.de/kommentare/handy/librem-5-freies-linux-smartphone-wird-groesser-und-kantig/117753,list.html
 forum.golem.de###abo-clip
-
 ! 7/7/2018, 5:04:12 PM daserste.de
 ||data.argosdata.io^
-
 ! 7/11/2018, 11:50:14 AM https://futurezone.at/netzpolitik/oesterreich-macht-sich-fuer-user-tracking-in-eu-verordnung-stark/400064447
 futurezone.at##.siteCookie
-
-||deoi3kwqhv0d5.cloudfront.net^
-|http://$script,third-party,domain=pcwelt.de
-|https://$script,third-party,domain=pcwelt.de
-@@||disqus.com^$script,domain=pcwelt.de
-@@||disquscdn.com^$script,domain=pcwelt.de
-
-||contentza.com^$third-party
-||amazonaws.com/static.contentza.com/widgets
-
 ! 8/3/2018, 7:48:25 PM https://||heise.de/
-||heise.de##.a-article-teaser--sponsored
-
 ! 8/22/2018, 9:08:48 AM https://||heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
 ||heise.de##.hoteaser
-
 ! 8/22/2018, 9:08:59 AM https://||heise.de/newsticker/meldung/Cyberpunk-2077-Die-Zukunft-ist-Punk-4142931.html
 ||heise.de##.akwa-ad-container__us-ad
-
 ! 9/6/2018, 7:37:09 PM golem.de
 ||www.golem.de/*/sp_*.jpg
-
 ||svonm.com/hd-main.js$script,redirect=hd-main.js,domain=wetter.de
-
 wetter.de##script:inject(golem.de.js)
-
 ! 10/27/2018, 10:42:29 AM https://||heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
 ||heise.de##.i-amphtml-fx-flying-carpet-clip
-
 ! 10/27/2018, 10:42:39 AM https://||heise.de/tipps-tricks/Sicher-surfen-in-oeffentlichen-WLAN-Netzen-3915260.html
 ||heise.de##.tipps-content-ad__flying-carpet.tipps-content-ad
-
 ! 11/15/2018, 6:36:04 PM https://www.queer.de/detail.php?article_id=32351
 www.queer.de###klmvid
-
 ! 11/16/2018, 9:32:26 AM https://netzpolitik.org/2018/studie-64-praktische-vorschlaege-fuer-eine-bessere-kontrolle-der-massenueberwachung/
 netzpolitik.org###spendenleiste
-
 ! 11/17/2018, 8:43:12 AM https://github.com/notifications
 github.com##.unsupported-browser
-
 ! 11/19/2018, 2:51:54 PM golem.de
 ||atonato.de^
-
 ! 11/24/2018, 12:16:11 PM https://||heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
 ||heise.de##.tipps-related-articles
-
 ! 11/24/2018, 12:16:43 PM https://||heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
 ||heise.de##.tipps-main-content > aside.tipps-content-ad
-
 ! 11/24/2018, 12:17:01 PM https://||heise.de/tipps-tricks/Kodi-auf-dem-Raspberry-Pi-einrichten-4225010.html
 ||heise.de##aside.tipps-content-ad> .tipps-content-ad__link
-
 ! 12/2/2018, 9:40:32 AM https://www.tagesanzeiger.ch/wirtschaft/unternehmen-und-konjunktur/Ein-Desaster-fuer-Orell-Fuesslis-Sicherheitsdruck/story/30006890
 www.tagesanzeiger.ch###mainColRightPublireportage > .publireportage.teaserEditorialContent
-
 ! 12/2/2018, 9:40:43 AM https://www.tagesanzeiger.ch/wirtschaft/unternehmen-und-konjunktur/Ein-Desaster-fuer-Orell-Fuesslis-Sicherheitsdruck/story/30006890
 ||www.tagesanzeiger.ch/recommendation_widget/index.html$subdocument
-
 ! 12/7/2018, 5:18:49 PM sueddeutsche.de
 ||*.cloudfront.net/iqdvis/
-
 ! 12/17/2018, 2:47:26 PM heise.de
 ||messengerpeople.com^
-
 ! 12/17/2018, 2:47:48 PM heise.de
 ||wt.heise.de^
-
 ! 12/24/2018, 2:07:11 PM heise.de
 ||wb.messengerpeople.com^
-
 ! 12/25/2018, 4:33:00 PM https://forum.xda-developers.com/galaxy-s7/development/beta-lineageos-16-0-s7-herolte-t3842465
 forum.xda-developers.com###suggested-threads-wrapper
-
 ! 12/29/2018, 3:50:41 PM twitter.com
 ||twitter.com/i/promoted_content/log.json$first-party
-
 ! 12/30/2018, 1:14:40 PM https://t3n.de/news/bedingungsloses-grundeinkommen-michael-bohmeyer-1089882/3/
 t3n.de##.tg-article-jobs
-
 ! 1/17/2019, 9:09:16 PM https://www.jetzt.de/
 www.jetzt.de##.teaser--spost
-
 ! 1/18/2019, 8:25:28 PM https://||heise.de/newsticker/
 ||heise.de##.archiv-liste__item--sponsored
-
 ! 2/24/2019 https://www.deutschlandfunk.de
 www.deutschlandfunk.de##.dlf-relatedslide
-
 ! 3/24/2019 https://www.sueddeutsche.de
 www.sueddeutsche.de##.job-offer-right-column
-
 ! 4/19/2019 https://www.theverge.com
 www.theverge.com###privacy-consent
-
 ! 4/20/2019 https://www.der-bank-blog.de
 www.der-bank-blog.de###skyscraper-rechts
 www.der-bank-blog.de###skyscraper-links
-
 ! 4/22/2019 https://www.youtube.com
 www.youtube.com##.ytd-popup-container
-
 ! 5/4/2019 https://www.golem.de
 ||golem.de###a2a-popup
-
 ! 5/4/2019 golem.de
 ||a2a-static.golem.de^
-
 ! 5/8/2019 https://www.btc-echo.de
 www.btc-echo.de###btcee-2074754150
-
 ! 5/11/2019 https://www.netflix.com
 ||netflix.com##.nf-modal-background
 ||netflix.com##.uma-modal.nf-modal
-
 ! 5/13/2019 https://www.computerbase.de
 ||computerbase.de##.block1--ads
-
 ! 5/13/2019 computerbase.de
 ||ram.amunx.de^
-
 ! 5/25/2019 https://twitter.com
 twitter.com##.Banner--red.Banner--aboveNav.Banner
-
 ! 6/10/2019 https://www.computerbase.de
 ||computerbase.de##.js-promobar.promobar
-
 ! 6/30/2019 https://ze.tt
 ze.tt##div.breakout-article-body-desktop.ich-bin-harmlos
-
 ! 7/4/2019 https://||heise.de
 ||heise.de##em
-
 ! 7/27/2019 sueddeutsche.de
 ||push.delivery.ethinking.de^
-
 ! 8/3/2019 golem.de
 ||cpx.golem.de^$important
-
 ! 9/3/2019 https://www.queer.de
 www.queer.de##div.vidzkasten
-
 ! 9/8/2019 https://www.spiegel.de
 ||spiegel.de##.module-box.gutscheine-widget
-
 ! 9/15/2019 welt.de
 ||tags.tiqcdn.com/utag/*
 ||eu.webhook.logs.insight.rapid7.com^$xmlhttprequest
 ||eu.webhook.logs.insight.rapid7.com^
-
 ! 9/30/2019 https://www.internetanbieter.de
 www.internetanbieter.de##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
-
 www.btc-echo.de##.elementor
-
 ! 30.11.2019  C-Name Alias : heise02.webtrekk.net
 prophet.heise.de
-
 ! 30.11.2019 - performance improvement
 ||heise.de##script:contains(kameleoon)
-
 ! 11/12/2019 https://www.golem.de GolemPur-Werbung
 ||golem.de##.section-gpure__btn
 ||golem.de##.section-gpure
-
 ! 12/7/2019 https://||heise.de
 ||heise.de##.a-pvgs
-
 ! 12/10/2019 berlin.de
 ||w7.berlin.de^
+@@||cdn-331.privacy-mgmt.com^$domain=sp-spiegel-de.spiegel.de
+@@||pagead2.googlesyndication.com/pagead/images/transparent.png$image
+@@||privacy-mgmt.com^$domain=www.spiegel.de
+@@||secure.livechatinc.com^$script,domain=zygorguides.com
+@@||secure.livechatinc.com^$subdocument,domain=direct.lc.chat
+@@||secure.livechatinc.com^$subdocument,domain=zygorguides.com
+@@||www.golem.de/abo/setconsentcookie.php$domain=www.golem.de
+consent.yahoo.com##.consent-overlay
+digideutsche.com##.display-posts-listing
+digideutsche.com##.wccf_related_post
+kommunal.de###popup-circle-block
+netzpolitik.org###vorschaltbanner
+netzpolitik.org##.related__articles
+wago.io##div.wago-ad-container
+wetid.de##.wetid-adlabel
+www.blick.ch##.is-client.placement-articleTextAd2
+www.blick.ch##.is-client.placement-articleTextAd3
+www.btc-echo.de##.btce-na
+www.btc-echo.de##.dialog-lightbox-message
+www.gamestar.de##.hidden-sm-down.offerteaser-box
+www.gamestar.de##.js-ga-view.wbd-toolbox
+www.gamestar.de##.sponsored-dell-stoerer
+www.gamestar.de##.sponsored-mediamarkt-panel
+www.gamestar.de##.sponsored-mediamarkt-products
+www.gamestar.de##.teaser.offerteaser-box
+www.golem.de###iqadtile16
+www.golem.de###iqadtile3
+www.golem.de###iqadtile4
+www.golem.de###iqadtile5
+www.golem.de###iqadtile8
+www.golem.de###nat-jd
+www.golem.de###side-panel__open
+www.golem.de##.animate__bounceInUp
+www.golem.de##.career-widget
+www.golem.de##.clearfix
+www.golem.de##.gbox_affiliate
+www.golem.de##.iqadlinebottom
+www.golem.de##.li-hb-academy
+www.golem.de##.li-hb-jobs
+www.golem.de##.li-hb-pc
+www.golem.de##.li-hb-phits
+www.golem.de##.pcgh
+www.golem.de##.promos
+www.golem.de##div.teaser-widget
+www.heise.de###teaser_sockel
+www.heise.de##.a-ad--aside
+www.heise.de##.a-ad--inread
+www.heise.de##.a-ad-label
+www.heise.de##.a-pvgs
+www.heise.de##.archiv-liste__item--sponsored
+www.heise.de##.article-layout__header-wrbng
+www.heise.de##.branding
+www.heise.de##.curtain__purchase-container
+www.heise.de##.hbs-ad
+www.heise.de##.img-ad--day-deal
+www.heise.de##.img-ad--usad
+www.heise.de##.pvg-widget
+www.heise.de##.py-1
+www.heise.de##.stage-pvg
+www.heise.de##.teaser-grid--1.teaser-grid--h-gutter
+www.heise.de##.teaser_deal_des_tages
+www.heise.de##.top-topics__ad
+www.klimareporter.de###cpnb_warningBoxBgOverlay
+www.klimareporter.de##.active.lb-timer.karo3-lightbox
+www.kuketz-blog.de##.support-box.box
+www.notebookcheck.com##.tx-nbc2fe-relatedarticles
+www.ownedcore.com##.b-below-so-wrapper
+www.stern.de##.scroll.stern-gutscheinbox
+www.stern.de##.vergleichsinfo
+www.stern.de##div.o-teaser-block-wrapper
+www.theregister.com###RegCTBWF
+www.wowhead.com###main > .blocks
+www.wowhead.com##.notifications-dialog
+www.youtube.com##.opened
+www.zdnet.com###onetrust-banner-sdk
+www.zdnet.com##.ot-fade-in.onetrust-pc-dark-filter
+www.zeit.de##.paywall-footer--expandable
+www.zeit.de##.zon-teaser-standard--ad
+www.zimpel.de###nacc-overlay
+ze.tt##div.desktop-only.zett-ad-container
+||3r1kwxcd.top
+||dymatrix.cloud^
+||facesnotebook.com^$popup
+||geolocation.stroeerdp.de^
+||pc-emil.swmh.de/sueddeutsche-zeitung/subscribe$subdocument
+||raider.io/anyclip_rss.html
+||s.yimg.com/oa/build/images/de-DE-article_1db2d1ec8299b9e6.jpeg$image
+||spenden.twingle.de$subdocument
+||tracking.epicgames.com^
+||widget.raisenow.com^
